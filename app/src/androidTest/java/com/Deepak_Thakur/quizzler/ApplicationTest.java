@@ -1,4 +1,4 @@
-package com.londonappbrewery.quizzler;
+package com.Deepak_Thakur.quizzler;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
